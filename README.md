@@ -39,7 +39,7 @@ Let's connect and collaborate on exciting projects!
 
 <!-- Attractive GIFs -->
 <p align="center">
-  <img src="https://giphy.com/embed/3o85xAuO9kQ9c4mBFK" alt="GIF 1" width="300" />
+  <img src="https://videoplasty.com/stock-gifs/car-key-icon-40962" alt="GIF 1" width="300" />
   <img src="https://example.com/gif2.gif" alt="GIF 2" width="300" />
   <img src="https://example.com/gif3.gif" alt="GIF 3" width="300" />
 </p>
