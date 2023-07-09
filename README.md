@@ -39,7 +39,7 @@ Let's connect and collaborate on exciting projects!
 
 <!-- Attractive GIFs -->
 <p align="center">
- <img src="https://giphy.com/embed/l41YbnKUtHbX2diO4" width="360" height="480" />
+ <iframe src="https://giphy.com/embed/l41YbnKUtHbX2diO4" width="360" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/megacool-candywriter-wordgame-whats-the-pic-l41YbnKUtHbX2diO4">via GIPHY</a></p>
   <img src="https://example.com/gif2.gif" alt="GIF 2" width="300" />
   <img src="https://example.com/gif3.gif" alt="GIF 3" width="300" />
 </p>
