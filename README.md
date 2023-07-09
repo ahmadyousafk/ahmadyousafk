@@ -39,7 +39,6 @@ Let's connect and collaborate on exciting projects!
 
 <!-- Attractive GIFs -->
 <p align="center">
- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
   <img src="https://example.com/gif2.gif" alt="GIF 2" width="300" />
   <img src="https://example.com/gif3.gif" alt="GIF 3" width="300" />
 </p>
