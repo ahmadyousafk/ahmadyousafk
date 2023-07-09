@@ -37,10 +37,9 @@ Let's connect and collaborate on exciting projects!
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)
 
-
 <!-- Attractive GIFs -->
 <p align="center">
-  <img src="https://example.com/gif1.gif" alt="GIF 1" width="300" />
+  <img src="https://giphy.com/embed/3o85xAuO9kQ9c4mBFK" alt="GIF 1" width="300" />
   <img src="https://example.com/gif2.gif" alt="GIF 2" width="300" />
   <img src="https://example.com/gif3.gif" alt="GIF 3" width="300" />
 </p>
